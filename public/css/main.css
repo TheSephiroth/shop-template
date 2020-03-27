@@ -18,6 +18,13 @@ main {
 form {
   display: inline;
 }
+.image {
+  height: 20rem;
+}
+
+.image img {
+  height: inherit;
+}
 
 .centered {
   text-align: center;
